@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Harmaz 
+email: sales@harmaz.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: HarmazMY
-github_username:  
+github_username: HarmazMY 
 
 # Build settings
 markdown: kramdown
